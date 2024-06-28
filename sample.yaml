@@ -12,3 +12,6 @@
 
    - name: create second directory
      file: name=/tmp/cobra state=touch
+
+   - name: create thrid directory
+     file: name=/tmp/kingcobra state=touch
