@@ -1,2 +1,0 @@
-welcome 
-me writing first time in dev
