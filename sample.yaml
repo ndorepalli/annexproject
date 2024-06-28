@@ -9,6 +9,3 @@
 
    - name: create diretory
      file: name=/tmp/king state=touch
-
-   - name: create second directory
-     file: name=/tmp/cobra state=touch
